@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Learning..
+### I am going to generate the word "learning" for the calendar of 2024 🤔
 
 <!--
 **ZsyRock/ZsyRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

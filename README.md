@@ -1,5 +1,8 @@
 ### Hi there 👋
 ### I am going to generate the word "learning" for the calendar of 2024 😆
+### LEARNING will be converted into low-pixel letters, the space occupied is shown in the following numbers:
+### 56666366
+###
 
 <!--
 **ZsyRock/ZsyRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

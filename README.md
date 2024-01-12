@@ -1,12 +1,11 @@
 ### Hi there 👋
-### I am going to generate the word "learning" for the calendar of 2024 😆
-### LEARNING will be converted into low-pixel letter:
-### ‘L’
+### Some one is going to draw a low pixel 'learning' on the 2024 calendar 😆
+### The one will start from the first letter 'L', which means that he will not make any updates to GitHub on the following dates:
 ### 15th~19th Jan, 
 ### 26th Jan, 
-### 2nd Feb
-### 9th Feb
-###
+### 2nd Feb,
+### 9th Feb,
+### ...
 
 <!--
 **ZsyRock/ZsyRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

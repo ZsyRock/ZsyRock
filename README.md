@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Some one is going to draw a low pixel 'learning' on the 2024 calendar 😆
+### Some one is going to draw a low pixel 'LEARNING' on the 2024 calendar 😆
 ### The one will start from the first letter 'L', which means that he will not make any updates to GitHub on the following dates:
 ### 15th~19th Jan, 
 ### 26th Jan, 

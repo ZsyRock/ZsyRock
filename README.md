@@ -6,6 +6,7 @@
 ### 9th Feb (Fri),
 ### ...
 ### If the one has not updated his GitHub in these days, it does not mean that he is not learning, he is just addicted to the game.
+### Next plan is to generate a snake GIF image
 
 <!--
 **ZsyRock/ZsyRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

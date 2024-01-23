@@ -8,6 +8,9 @@
 ### If the one has not updated his GitHub in these days, it does not mean that he is not learning, he is just addicted to the game.
 ### Next plan is to generate a snake GIF image
 
+# Unexpectedly, the screen cracked
+### because the one put a folder in the middle of the laptop, and the button of the folder squeezed the screen on a crowded subway.
+
 <!--
 **ZsyRock/ZsyRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

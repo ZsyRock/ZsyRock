@@ -8,7 +8,7 @@
 ### If the one has not updated his GitHub in these days, it does not mean that he is not learning, he is just addicted to the game.
 ### Next plan is to generate a snake GIF image
 
-# Unexpectedly, the screen cracked
+## Unexpectedly, the screen cracked
 ### because the one put a folder in the middle of the laptop, and the button of the folder squeezed the screen on a crowded subway.
 ### Fortunately, the one then bought a replacement screen with refresh rate of 144hz. Tomorrow the one will try to replace the laptop screen himself.
 <!--

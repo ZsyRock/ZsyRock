@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Some one is going to draw a low pixel 'LEARNING' on the 2024 contributions graph 😆
+## Some one is going to draw a low pixel 'LEARNING' on the 2024 contributions graph 😆
 ### The one will start from the first letter 'L' and the one has already written the first stroke, which means that the one will not make any updates to GitHub on the following dates: 
 ### 26th Jan (Fri), 
 ### 2nd Feb (Fri),

@@ -10,7 +10,7 @@
 
 # Unexpectedly, the screen cracked
 ### because the one put a folder in the middle of the laptop, and the button of the folder squeezed the screen on a crowded subway.
-### Fortunately, the one then bought a 144HZ replacement screen from eBay. Tomorrow the one will try to replace the laptop screen himself.
+### Fortunately, the one then bought a brand new 144hz replacement screen from eBay. Tomorrow the one will try to replace the laptop screen himself.
 <!--
 **ZsyRock/ZsyRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

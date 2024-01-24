@@ -11,6 +11,7 @@
 ## Unexpectedly, the screen cracked
 ### because the one put a folder in the middle of the laptop, and the button of the folder squeezed the screen on a crowded subway.
 ### Fortunately, the one then bought a replacement screen with refresh rate of 144hz. Tomorrow the one will try to replace the laptop screen himself.
+### 24th Jan, Screen fixed!
 <!--
 **ZsyRock/ZsyRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

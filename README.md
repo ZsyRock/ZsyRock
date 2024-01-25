@@ -1,17 +1,9 @@
 ### Hi there 👋
 ## Some one is going to draw a low pixel 'LEARNING' on the contributions graph 😆
 ### The one will start from the first letter 'L' and the one has already written the first stroke, which means that the one will not make any updates to GitHub on the following dates: 
-### 26th Jan (Fri), 
-### 2nd Feb (Fri),
-### 9th Feb (Fri),
-### ...
+### 26th Jan (Fri), 2nd Feb (Fri), 9th Feb (Fri), ...
 ### If the one has not updated his GitHub in these days, it does not mean that he is not learning, he is just addicted to the game.
 ### Next plan is to generate a snake GIF image
-
-## Unexpectedly, the screen cracked
-### because the one put a folder in the middle of the laptop, and the button of the folder squeezed the screen on a crowded subway.
-### Fortunately, the one then bought a replacement screen with refresh rate of 144hz. Tomorrow the one will try to replace the laptop screen himself.
-### 24th Jan 10pm, Screen fixed!
 <!--
 **ZsyRock/ZsyRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

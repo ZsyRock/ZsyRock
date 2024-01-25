@@ -3,7 +3,7 @@
 ### The one will start from the first letter 'L' and the one has already written the first stroke, which means that the one will not make any updates to GitHub on the following dates: 
 ### 26th Jan (Fri), 2nd Feb (Fri), 9th Feb (Fri), ...
 ### If the one has not updated his GitHub in these days, it does not mean that he is not learning, he is just addicted to the game.
-### Next plan is to generate a snake GIF image
+### Next plan is to generate a snake GIF image, from a data scientist.
 <!--
 **ZsyRock/ZsyRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

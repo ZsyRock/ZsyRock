@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Some one is going to draw a low pixel 'LEARNING' on the contributions graph 😆
 ### The one will start from the first letter 'L' and the one has already written the first stroke, which means that the one will not make any updates to GitHub on the following dates: 
-### 26th Jan (Fri), 2nd Feb (Fri), 9th Feb (Fri), ...
+### 2nd Feb (Fri), 9th Feb (Fri), ...
 ### If the one has not updated his GitHub in these days, it does not mean that he is not learning, he is just addicted to the game.
 
 <!--

@@ -1,5 +1,5 @@
 ## Some one is going to draw a low pixel 'LEARNING' on the contributions graph 😆
-### The one has finished the first letter 'L', there will be a column between 'L' and next letter, the one will not make any updates to GitHub on the following dates: 
+### The one almost done with the first 'L', the one will not make any updates to GitHub on the following dates: 
 ### 9th Feb (Fri) [and so forth](https://github.com/ZsyRock/ZsyRock/blob/main/LEARNING%20Calendar.png)
 ### If the one has not updated his GitHub in these days, it does not mean that he is not learning, he is just addicted to the game.
 ### Will be as the IT Analyst at Huawei Monich Research Center (2012 Lab) from March 2024. Currently learning Data Mining, ML and algorithms.

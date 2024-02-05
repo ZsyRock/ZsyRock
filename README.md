@@ -3,6 +3,8 @@
 ### 9th Feb (Fri) [and so forth](https://github.com/ZsyRock/ZsyRock/blob/main/LEARNING%20Calendar.png)
 ### If the one has not updated his GitHub in these days, it does not mean that he is not learning, he is just addicted to the game.
 ### Will be as the IT Analyst at Huawei Monich Research Center (2012 Lab) from March 2024. Currently learning Data Mining, ML and algorithms.
+### Keep learning
+
 <!--
 **ZsyRock/ZsyRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

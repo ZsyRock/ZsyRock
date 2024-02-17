@@ -1,4 +1,4 @@
-### Will be as the IT Analyst at Huawei Monich Research Center (2012 Lab) from March 2024. Currently learning Data Mining, ML and algorithms.
+### Will be the IT Analyst at Huawei Monich Research Center (2012 Lab) from March 2024. Currently learning Data Mining, ML and algorithms.
 ### Keep learning
 
 <!--

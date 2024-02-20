@@ -1,5 +1,5 @@
-### Will be the IT Analyst at Huawei Monich Research Center (2012 Lab) from March 2024. Currently learning Data Mining, ML and algorithms.
-### Keep learning
+### Currently learning Data Mining, ML and algorithms.
+
 
 <!--
 **ZsyRock/ZsyRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

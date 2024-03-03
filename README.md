@@ -1,4 +1,4 @@
-### Currently immersed in learning Health Information Technology (HIT) alongside honing skills in quantitative analysis.
+### Currently focused on mastering Health Information Technology (HIT), particularly in the realm of electronic health records (EHR) within psychology, while also sharpening the quantitative analysis skills.
 
 <!--
 **ZsyRock/ZsyRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,4 @@
-### Currently learning Data Mining, ML and algorithms.
-### Leanrning Data analysis with EHR (Electronic health records).
+### Currently immersed in learning Health Information Technology (HIT) alongside honing skills in quantitative analysis.
 
 <!--
 **ZsyRock/ZsyRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

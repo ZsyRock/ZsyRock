@@ -1,5 +1,5 @@
 ### Currently learning Data Mining, ML and algorithms.
-### Data analysis with EHR (Electronic health records).
+### Leanrning Data analysis with EHR (Electronic health records).
 
 <!--
 **ZsyRock/ZsyRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

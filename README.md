@@ -1,4 +1,4 @@
-### Currently focused on mastering the network engineering and generative AI
+### Currently researching Cybersecurity and Federated Learning.
 
 <!--
 **ZsyRock/ZsyRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

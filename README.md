@@ -1,4 +1,4 @@
-### Currently learning about Network Deployment, Distributed Computing, and Deep Learning.
+### Currently learning about Network Deployment, Distributed Computing, and Deep Learning methods.
 
 <!--
 **ZsyRock/ZsyRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

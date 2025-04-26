@@ -1,4 +1,4 @@
-### Currently exploring Vertical Federated Learning and Tabular Data Synthesis.
+### Currently researching automated gradient clipping thresholds in Differential Privacy, and exploring their applications in Vertical Federated Learning.
 
 <!--
 **ZsyRock/ZsyRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
